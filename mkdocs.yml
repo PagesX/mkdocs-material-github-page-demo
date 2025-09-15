@@ -25,7 +25,7 @@ site_author: WeiyanShen
 site_description: >-
   根据一组 Markdown 文件创建静态网站，以托管开源或商业项目的文档-支持自定义、搜索、对移动设备友好，支持 40 多种语言。
 
-repo_name: mkdocs-material-github-page-demo
+repo_name: mkdocs-material-gh-pages
 repo_url: https://github.com/PagesX/mkdocs-material-github-page-demo
 
 # Copyright
